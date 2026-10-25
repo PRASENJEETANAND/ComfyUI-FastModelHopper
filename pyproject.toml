@@ -1,0 +1,13 @@
+[project]
+name = "fast-model-hopper"
+version = "1.0.0"
+description = "Hop models from a slow HDD onto the fast SSD where ComfyUI loads them."
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/PRASENJEETANAND/ComfyUI-FastModelHopper"
+
+[tool.comfy]
+PublisherId = "prasenjeetanand"
+DisplayName = "Fast Model Hopper"
